@@ -17,7 +17,7 @@
 
 <p align="center">
   <!-- küçük bir hareketli vurgu (typing / hello hissi) -->
-  <img src=https://github.com/altaygallagher/altaygallagher/blob/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif"
+  <img src="https://github.com/altaygallagher/altaygallagher/blob/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif"
        alt="Hello" width="340" />
 </p>
 
