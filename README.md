@@ -17,7 +17,7 @@
 
 <p align="center">
   <!-- küçük bir hareketli vurgu (typing / hello hissi) -->
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU0ODM0NDEsIm5iZiI6MTc1NTQ4MzE0MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE4VDAyMTIyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3NWQ3ZGQ3NzBiMDkwMzhmZTJmMTU5MDc3NDcyYzk0MDU5N2ExNTZhNDJlOWJjZTJiODNlODNiZTU1ODQ3MmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gCRIbUcJMoxNyAcYSu6SSQduqzeaPnvvY7YnS0ixzAo"
+  <img src=https://github.com/altaygallagher/altaygallagher/blob/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif"
        alt="Hello" width="340" />
 </p>
 
