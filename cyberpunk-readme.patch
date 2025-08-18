@@ -1,4 +1,8 @@
 
+*** Begin Patch
+*** Add File: README.md
+@@
+
 <!-- Banner / Welcome (Kaynak: Cool-GIFs-For-GitHub) -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"
@@ -102,3 +106,115 @@ _Güncelleniyor..._
 </p>
 
 <!-- Credits: GIF kaynakları Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+
+*** End Patch
+*** Begin Patch
+*** Add File: .github/workflows/update-activity.yml
+@@
+
+name: Update README with recent activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6 saatte bir (UTC)
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 8
+          COMMIT_MSG: "chore: update recent activity"
+
+*** End Patch
+*** Begin Patch
+*** Add File: .github/workflows/update-weather.yml
+@@
+
+name: Update Weather in README
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"   # 6 saatte bir, aktiviteden 15 dk sonra
+  workflow_dispatch:
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install requests
+      - name: Update weather section
+        env:
+          OWM_API_KEY: ${{ secrets.OWM_API_KEY }}
+          CITY: Istanbul
+          COUNTRY: TR
+        run: |
+          python scripts/weather.py
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update weather & timestamp"
+            git push
+          fi
+
+*** End Patch
+*** Begin Patch
+*** Add File: scripts/weather.py
+@@
+
+import os, re, json, urllib.request, datetime
+
+API = "https://api.openweathermap.org/data/2.5/weather?q={city},{country}&units=metric&appid={key}"
+key = os.environ["OWM_API_KEY"]
+city = os.environ.get("CITY", "Istanbul")
+country = os.environ.get("COUNTRY", "TR")
+
+url = API.format(city=city, country=country, key=key)
+with urllib.request.urlopen(url) as resp:
+    data = json.loads(resp.read().decode("utf-8"))
+
+temp = round(data["main"]["temp"])
+desc = data["weather"][0]["description"].title()
+sunrise = datetime.datetime.utcfromtimestamp(data["sys"]["sunrise"]).strftime("%H:%M")
+sunset  = datetime.datetime.utcfromtimestamp(data["sys"]["sunset"]).strftime("%H:%M")
+
+weather_line = f"**{temp}°C**, _{desc}_ — Güneş: **{sunrise}** / **{sunset}** (UTC)"
+timestamp = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+with open("README.md", "r", encoding="utf-8") as f:
+    readme = f.read()
+
+readme = re.sub(r"<!-- WEATHER:START -->(.*?)<!-- WEATHER:END -->",
+                f"<!-- WEATHER:START -->
+{weather_line}
+<!-- WEATHER:END -->",
+                readme, flags=re.S)
+
+readme = re.sub(r"<!--REFRESH_TIMESTAMP-->.*",
+                f"<!--REFRESH_TIMESTAMP-->{timestamp}",
+                readme)
+
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(readme)
+
+*** End Patch
