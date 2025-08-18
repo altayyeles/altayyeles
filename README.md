@@ -8,8 +8,9 @@
 <h1 align="center">Hey! Nice to see you 👋</h1>
 
 
-<p align="center">
-  Ben <b>Altay YELES</b> — YTÜ <b>Matematik Mühendisliği</b> 4. sınıf öğrencisi.<br/>
+<h3 align="center">
+  Ben <b>Altay YELES</b> — YTÜ <b>Matematik Mühendisliği</b> 4. sınıf öğrencisi.<br/></h3>
+  <p align="center">
   🤖 Yapay Zekâ • 📊 Veri Bilimi • 🖥️ Front‑End • 🧪 Görüntü İşleme
 </p>
 
