@@ -58,6 +58,10 @@
 ## 📰 Son Aktivite
 <!-- Buraya GitHub Activity Readme Action otomatik yazacak -->
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/altaygallagher/altaygallagher/pull/2) in [altaygallagher/altaygallagher](https://github.com/altaygallagher/altaygallagher)
+2. 💪 Opened PR [#2](https://github.com/altaygallagher/altaygallagher/pull/2) in [altaygallagher/altaygallagher](https://github.com/altaygallagher/altaygallagher)
+3. 🎉 Merged PR [#1](https://github.com/altaygallagher/altaygallagher/pull/1) in [altaygallagher/altaygallagher](https://github.com/altaygallagher/altaygallagher)
+4. 💪 Opened PR [#1](https://github.com/altaygallagher/altaygallagher/pull/1) in [altaygallagher/altaygallagher](https://github.com/altaygallagher/altaygallagher)
 <!--END_SECTION:activity-->
 
 ---
