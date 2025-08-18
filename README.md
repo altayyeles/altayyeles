@@ -47,11 +47,15 @@
 
 ---
 
-### 🌟 Profil Görünümü & Takipçiler
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=altaygallagher&color=blueviolet&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/github/followers/altaygallagher?label=Takipçi&style=for-the-badge&color=red" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/altaygallagher?label=⭐%20Starlar&style=for-the-badge&color=yellow" alt="stars"/>
+  <!-- Followers -->
+  <a href="https://github.com/altaygallagher?tab=followers">
+    <img src="https://img.shields.io/github/followers/altaygallagher?label=Takipçi&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
+  </a>
+  <!-- Stars -->
+  <a href="https://github.com/altaygallagher?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/altaygallagher?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
+  </a>
 </p>
 
 
