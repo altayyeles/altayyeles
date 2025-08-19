@@ -21,11 +21,14 @@ timestamp = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
 
-readme = re.sub(r"<!-- WEATHER:START -->(.*?)<!-- WEATHER:END -->",
-                f"<!-- WEATHER:START -->
+readme = re.sub(
+    r"<!-- WEATHER:START -->(.*?)<!-- WEATHER:END -->",
+    f"""<!-- WEATHER:START -->
 {weather_line}
-<!-- WEATHER:END -->",
-                readme, flags=re.S)
+<!-- WEATHER:END -->""",
+    readme,
+    flags=re.S
+)
 
 readme = re.sub(r"<!--REFRESH_TIMESTAMP-->.*",
                 f"<!--REFRESH_TIMESTAMP-->{timestamp}",
