@@ -23,11 +23,11 @@
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
-## 🧠 Hakkımda
-- 💻 AI, Veri Bilimi ve Full-Stack Development ile ilgileniyorum  
-- 📚 Python, Makine Öğrenmesi ve Frontend teknolojileri üzerine çalışıyorum  
-- 🎯 Hedefim: AI Engineer olmak  
-- ⚡ Meraklı, öğrenmeye açık ve üretkenim
+## 🔥About me
+- 💻 Hey, I’m Altay — AI & Full-Stack dev in progress  
+- 📚 AI, Data Science & Full-Stack Development 
+- 🚀 I love building projects that merge data, intelligence & design  
+- ⚡ Code • Learn • Break • Repeat
 <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ## 🧰 Things I code with
