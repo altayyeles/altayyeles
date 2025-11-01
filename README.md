@@ -1,6 +1,6 @@
 <!-- Banner / Welcome (Kaynak: Cool-GIFs-For-GitHub) -->
 <div align="center">
-  <img src="https://github.com/altayyeles/altayyeles/blob/main/Cyberpunk%20Cyberpunk%202077%20GIF%20-%20Cyberpunk%20Cyberpunk%202077%20Cyberpunk%20Edgerunners%20-%20Discover%20%26%20Share%2[...]"
+  <img src="https://github.com/altayyeles/altayyeles/blob/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif"
        alt="Welcome" width="700" />
 </div>
 
