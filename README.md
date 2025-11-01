@@ -1,7 +1,6 @@
-
 <!-- Banner / Welcome (Kaynak: Cool-GIFs-For-GitHub) -->
 <div align="center">
-  <img src="https://github.com/altaygallagher/altaygallagher/blob/main/Cyberpunk%20Cyberpunk%202077%20GIF%20-%20Cyberpunk%20Cyberpunk%202077%20Cyberpunk%20Edgerunners%20-%20Discover%20%26%20Share%20GIFs.gif"
+  <img src="https://github.com/altayyeles/altayyeles/blob/main/Cyberpunk%20Cyberpunk%202077%20GIF%20-%20Cyberpunk%20Cyberpunk%202077%20Cyberpunk%20Edgerunners%20-%20Discover%20%26%20Share%2[...]"
        alt="Welcome" width="700" />
 </div>
 
@@ -17,7 +16,7 @@
 
 <p align="center">
   <!-- küçük bir hareketli vurgu (typing / hello hissi) -->
-  <img src="https://github.com/altaygallagher/altaygallagher/blob/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif" style="width: 1000px; height: 200px; object-fit: contain;"
+  <img src="https://github.com/altayyeles/altayyeles/blob/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif" style="width: 1000px; height: 200px; object-fit: contain;"
        alt="Hello" width="1000"  />
 </p>
 
@@ -49,11 +48,11 @@
 
 ## 🔭 Projelerden Öne Çıkanlar
 <!-- İki pinned repo kartı: repo adlarını değiştir -->
-<a href="https://github.com/altaygallagher/Mentalist-Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altaygallagher&repo=Mentalist-Chatbot&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011" />
+<a href="https://github.com/altayyeles/Mentalist-Chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altayyeles&repo=Mentalist-Chatbot&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011" />
 </a>
-<a href="https://github.com/altaygallagher/Coursera-Microsoft-Python-Development-Modules">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altaygallagher&repo=Coursera-Microsoft-Python-Development-Modules&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011" />
+<a href="https://github.com/altayyeles/Coursera-Microsoft-Python-Development-Modules">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altayyeles&repo=Coursera-Microsoft-Python-Development-Modules&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_col[...]"
 </a>
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
@@ -61,10 +60,10 @@
 ## 📰 Son Aktivite
 <!-- Buraya GitHub Activity Readme Action otomatik yazacak -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/altaygallagher/altaygallagher/pull/2) in [altaygallagher/altaygallagher](https://github.com/altaygallagher/altaygallagher)
-2. 💪 Opened PR [#2](https://github.com/altaygallagher/altaygallagher/pull/2) in [altaygallagher/altaygallagher](https://github.com/altaygallagher/altaygallagher)
-3. 🎉 Merged PR [#1](https://github.com/altaygallagher/altaygallagher/pull/1) in [altaygallagher/altaygallagher](https://github.com/altaygallagher/altaygallagher)
-4. 💪 Opened PR [#1](https://github.com/altaygallagher/altaygallagher/pull/1) in [altaygallagher/altaygallagher](https://github.com/altaygallagher/altaygallagher)
+1. 🎉 Merged PR [#2](https://github.com/altayyeles/altayyeles/pull/2) in [altayyeles/altayyeles](https://github.com/altayyeles/altayyeles)
+2. 💪 Opened PR [#2](https://github.com/altayyeles/altayyeles/pull/2) in [altayyeles/altayyeles](https://github.com/altayyeles/altayyeles)
+3. 🎉 Merged PR [#1](https://github.com/altayyeles/altayyeles/pull/1) in [altayyeles/altayyeles](https://github.com/altayyeles/altayyeles)
+4. 💪 Opened PR [#1](https://github.com/altayyeles/altayyeles/pull/1) in [altayyeles/altayyeles](https://github.com/altayyeles/altayyeles)
 <!--END_SECTION:activity-->
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
@@ -78,8 +77,8 @@
 
 ## 📈 GitHub İstatistikleri 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=altaygallagher&show_icons=true&title_color=ff3d81&icon_color=ff3d81&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaygallagher&layout=compact&title_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=altayyeles&show_icons=true&title_color=ff3d81&icon_color=ff3d81&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altayyeles&layout=compact&title_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011"/>
 </p>
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
