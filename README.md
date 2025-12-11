@@ -70,7 +70,7 @@
 
 ## ⛅ İstanbul Hava Durumu
 <!-- WEATHER:START -->
-**10°C**, _Clear Sky_ — Güneş: **05:18** / **14:35** (UTC)
+**10°C**, _Broken Clouds_ — Güneş: **05:19** / **14:35** (UTC)
 <!-- WEATHER:END -->
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
@@ -104,7 +104,7 @@
 
 <p align="center">
   <i>Bu README otomatik güncellenir.</i><br/>
-  <i>Son yenileme:</i> <!--REFRESH_TIMESTAMP-->2025-12-10 18:46 UTC
+  <i>Son yenileme:</i> <!--REFRESH_TIMESTAMP-->2025-12-11 02:24 UTC
 </p>
 
 <!-- Credits: GIF kaynakları Anmol-Baranwal/Cool-GIFs-For-GitHub -->
