@@ -104,7 +104,7 @@
 
 <p align="center">
   <i>Bu README otomatik güncellenir.</i><br/>
-  <i>Son yenileme:</i> <!--REFRESH_TIMESTAMP-->2026-01-22 13:13 UTC
+  <i>Son yenileme:</i> <!--REFRESH_TIMESTAMP-->2026-01-22 18:52 UTC
 </p>
 
 <!-- Credits: GIF kaynakları Anmol-Baranwal/Cool-GIFs-For-GitHub -->
