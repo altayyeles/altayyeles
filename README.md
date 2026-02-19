@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=altayyeles&repo=Mentalist-Chatbot&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011" />
 </a>
 <a href="https://github.com/altayyeles/Coursera-Microsoft-Python-Development-Modules">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altayyeles&repo=Coursera-Microsoft-Python-Development-Modules&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altayyeles&repo=Coursera-Microsoft-Python-Development-Modules&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011" />
 </a>
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
