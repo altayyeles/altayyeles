@@ -1,6 +1,6 @@
 <!-- Banner / Welcome (Kaynak: Cool-GIFs-For-GitHub) -->
 <div align="center">
-  <img src="https://github.com/altayyeles/altayyeles/blob/main/Cyberpunk%20Cyberpunk%202077%20GIF%20-%20Cyberpunk%20Cyberpunk%202077%20Cyberpunk%20Edgerunners%20-%20Discover%20%26%20Share%20GIFs.gif"
+  <img src="https://raw.githubusercontent.com/altayyeles/altayyeles/main/Cyberpunk%20Cyberpunk%202077%20GIF%20-%20Cyberpunk%20Cyberpunk%202077%20Cyberpunk%20Edgerunners%20-%20Discover%20%26%20Share%20GIFs.gif"
        alt="Welcome" width="700" />
 </div>
 
@@ -16,8 +16,8 @@
 
 <p align="center">
   <!-- küçük bir hareketli vurgu (typing / hello hissi) -->
-  <img src="https://github.com/altayyeles/altayyeles/blob/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif" style="width: 1000px; height: 200px; object-fit: contain;"
-       alt="Hello" width="1000"  />
+  <img src="https://raw.githubusercontent.com/altayyeles/altayyeles/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif"
+       alt="Hello" width="1000" />
 </p>
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=altayyeles&repo=Mentalist-Chatbot&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011" />
 </a>
 <a href="https://github.com/altayyeles/Coursera-Microsoft-Python-Development-Modules">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altayyeles&repo=Coursera-Microsoft-Python-Development-Modules&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_col[...]"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altayyeles&repo=Coursera-Microsoft-Python-Development-Modules&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011" />
 </a>
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
