@@ -26,7 +26,7 @@
 
 <h2> 🔥 About Me </h2>
 
-<img align="right" src="https://raw.githubusercontent.com/altayyeles/altayyeles/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif" width="350" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="275" />
 
 ```yaml
 name: Altay YELES
