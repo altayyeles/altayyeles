@@ -1,64 +1,140 @@
-<!-- Banner / Welcome (Kaynak: Cool-GIFs-For-GitHub) -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     🔥  ALTAY YELES  —  README  🔥                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!-- Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/altayyeles/altayyeles/main/Cyberpunk%20Cyberpunk%202077%20GIF%20-%20Cyberpunk%20Cyberpunk%202077%20Cyberpunk%20Edgerunners%20-%20Discover%20%26%20Share%20GIFs.gif"
        alt="Welcome" width="700" />
 </div>
 
-<h1 align="center">Hey! Nice to see you 👋</h1>
+<br/>
 
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF3D81&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%91%8B+Hey!+Nice+to+see+you;%F0%9F%9A%80+AI+%7C+Data+Science+%7C+Full-Stack+%7C+Computer+Vision" alt="Typing SVG" />
+  </a>
+</div>
 
-<h3 align="center">
-  Ben <b>Altay YELES</b> — YTÜ <b>Matematik Mühendisliği</b> 4. sınıf öğrencisi.<br/></h3>
-  <p align="center">
-  🤖 Yapay Zekâ • 📊 Veri Bilimi • 🖥️ Front‑End • 🧪 Görüntü İşleme
-</p>
+<br/>
 
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<p align="center">
-  <!-- küçük bir hareketli vurgu (typing / hello hissi) -->
-  <img src="https://raw.githubusercontent.com/altayyeles/altayyeles/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif"
-       alt="Hello" width="1000" />
-</p>
+<!-- ─── ABOUT ─────────────────────────────────────────────────────── -->
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<h2> 🔥 About Me </h2>
 
-## 🔥About me
-- 💻 Hey, I’m Altay — AI & Full-Stack dev in progress  
-- 📚 AI, Data Science & Full-Stack Development 
-- 🚀 I love building projects that merge data, intelligence & design  
-- ⚡ Code • Learn • Break • Repeat
-<img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<img align="right" src="https://raw.githubusercontent.com/altayyeles/altayyeles/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif" width="350" />
 
-## 🧰 Things I code with
+```yaml
+name: Altay YELES
+university: Yıldız Teknik Üniversitesi
+major: Matematik Mühendisliği (4. Sınıf)
+focus:
+  - 🤖 Artificial Intelligence
+  - 📊 Data Science
+  - 🖥️ Full-Stack Development
+  - 🧪 Computer Vision & Image Processing
+motto: "Code • Learn • Break • Repeat ⚡"
+```
+
+<br clear="both"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ─── TECH STACK ────────────────────────────────────────────────── -->
+
+<h2> 🧰 Tech Stack </h2>
+
+<div align="center">
+
+#### 🧠 AI / ML / Data
 <p>
   <img src="https://img.shields.io/badge/Python-ff3d81?logo=python&logoColor=1b1f23&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TensorFlow-ff6f00?logo=tensorflow&logoColor=1b1f23&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=1b1f23&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/scikit--learn-ff9f1c?logo=scikitlearn&logoColor=1b1f23&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pandas-00eaff?logo=pandas&logoColor=1b1f23&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NumPy-06d6a0?logo=numpy&logoColor=1b1f23&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Matplotlib-8338ec?style=for-the-badge"/>
+</p>
+
+#### 🌐 Web / Front-End
+<p>
   <img src="https://img.shields.io/badge/HTML5-f72585?logo=html5&logoColor=1b1f23&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CSS3-4361ee?logo=css3&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-f9c74f?logo=javascript&logoColor=1b1f23&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-ef476f?logo=git&logoColor=1b1f23&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=1b1f23&style=for-the-badge"/>
 </p>
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+#### 🛠️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-ef476f?logo=git&logoColor=1b1f23&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-f37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-fcc624?logo=linux&logoColor=1b1f23&style=for-the-badge"/>
+</p>
 
-## 🔭 Projelerden Öne Çıkanlar
-<!-- İki pinned repo kartı: repo adlarını değiştir -->
-<a href="https://github.com/altayyeles/Mentalist-Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altayyeles&repo=Mentalist-Chatbot&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011" />
-</a>
-<a href="https://github.com/altayyeles/Coursera-Microsoft-Python-Development-Modules">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altayyeles&repo=Coursera-Microsoft-Python-Development-Modules&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0,000000,0a0f0d,110011" />
-</a>
+</div>
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📰 Son Aktivite
-<!-- Buraya GitHub Activity Readme Action otomatik yazacak -->
+<!-- ─── GITHUB STATS ──────────────────────────────────────────────── -->
+
+<h2> 📈 GitHub Stats </h2>
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats-altayyeles.vercel.app/api?username=altayyeles&show_icons=true&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0d1117&border_color=ff3d81&hide_border=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=altayyeles&background=0d1117&border=ff3d81&stroke=00eaff&ring=ff3d81&fire=ff3d81&currStreakLabel=00eaff&sideLabels=cde9ff&dates=cde9ff&currStreakNum=ff3d81&sideNums=cde9ff" />
+
+  <br/>
+
+  <img width="40%" src="https://github-readme-stats-altayyeles.vercel.app/api/top-langs/?username=altayyeles&layout=compact&title_color=00eaff&text_color=cde9ff&bg_color=0d1117&border_color=ff3d81&hide_border=false" />
+
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=altayyeles&bg_color=0d1117&color=00eaff&line=ff3d81&point=ffffff&area_color=ff3d81&area=true&hide_border=true" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ─── TROPHIES ───────────────────────────────────────────────────── -->
+
+<h2> 🏆 Trophies </h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy-altayyeles.vercel.app/?username=altayyeles&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ─── FEATURED PROJECTS ─────────────────────────────────────────── -->
+
+<h2> 🔭 Featured Projects </h2>
+
+<div align="center">
+  <a href="https://github.com/altayyeles/Mentalist-Chatbot">
+    <img src="https://github-readme-stats-altayyeles.vercel.app/api/pin/?username=altayyeles&repo=Mentalist-Chatbot&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0d1117&border_color=ff3d81" />
+  </a>
+  <a href="https://github.com/altayyeles/Coursera-Microsoft-Python-Development-Modules">
+    <img src="https://github-readme-stats-altayyeles.vercel.app/api/pin/?username=altayyeles&repo=Coursera-Microsoft-Python-Development-Modules&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0d1117&border_color=ff3d81" />
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ─── RECENT ACTIVITY ───────────────────────────────────────────── -->
+
+<h2> 📰 Recent Activity </h2>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/altayyeles/altayyeles/pull/2) in [altayyeles/altayyeles](https://github.com/altayyeles/altayyeles)
 2. 💪 Opened PR [#2](https://github.com/altayyeles/altayyeles/pull/2) in [altayyeles/altayyeles](https://github.com/altayyeles/altayyeles)
@@ -66,44 +142,65 @@
 4. 💪 Opened PR [#1](https://github.com/altayyeles/altayyeles/pull/1) in [altayyeles/altayyeles](https://github.com/altayyeles/altayyeles)
 <!--END_SECTION:activity-->
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ⛅ İstanbul Hava Durumu
+<!-- ─── WEATHER ────────────────────────────────────────────────────── -->
+
+<h2> ⛅ İstanbul Hava Durumu </h2>
+
 <!-- WEATHER:START -->
 **5°C**, _Light Intensity Shower Rain_ — Güneş: **04:55** / **15:41** (UTC)
 <!-- WEATHER:END -->
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📈 GitHub İstatistikleri 
+<!-- ─── SNAKE ──────────────────────────────────────────────────────── -->
 
-  ![Altay's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altayyeles/altayyeles/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altayyeles/altayyeles/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/altayyeles/altayyeles/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<!-- ─── CONNECT ───────────────────────────────────────────────────── -->
 
-## 🤝 Benimle İletişime Geç
-<p>
-  <!-- Animated Social Icons -->
-  <a href="https://www.linkedin.com/in/altayyeles/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
-         alt="LinkedIn" width="60"/>
+<h2> 🤝 Connect with Me </h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/altayyeles/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/altayyeles" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
-         alt="GitHub" width="60"/>
+  &nbsp;
+  <a href="https://github.com/altayyeles" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:altay.yeles@std.yildiz.edu.tr" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"
-         alt="E-mail" width="60"/>
+  &nbsp;
+  <a href="mailto:altay.yeles@std.yildiz.edu.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-</p>
+</div>
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<br/>
+
+<!-- ─── PROFILE VIEWS ─────────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=altayyeles&style=for-the-badge&color=ff3d81&label=PROFILE+VIEWS" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/altayyeles/altayyeles/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif" alt="Footer" width="1000" />
+</div>
 
 <p align="center">
   <i>Bu README otomatik güncellenir.</i><br/>
-  <i>Son yenileme:</i> <!--REFRESH_TIMESTAMP-->2026-02-18 19:16 UTC
+  <i>Son yenileme:</i> <!--REFRESH_TIMESTAMP-->2026-02-19 01:41:11 UTC
 </p>
 
 <!-- Credits: GIF kaynakları Anmol-Baranwal/Cool-GIFs-For-GitHub -->
