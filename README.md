@@ -110,9 +110,10 @@ motto: "Code • Learn • Break • Repeat ⚡"
 
 <h2> 🏆 Trophies </h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy-altayyeles.vercel.app/?username=altayyeles&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-</div>
+
+  [![Trophies](https://github-profile-trophy-kannan.vercel.app/?username=altayyeles&theme=aura)](https://github.com/altayyeles)
+
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -194,9 +195,7 @@ motto: "Code • Learn • Break • Repeat ⚡"
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/altayyeles/altayyeles/main/4e9e1f5a41b738e3066d135da871a46c%20(1).gif" alt="Footer" width="1000" />
-</div>
+
 
 <p align="center">
   <i>Bu README otomatik güncellenir.</i><br/>
