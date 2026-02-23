@@ -26,7 +26,7 @@
 
 <h2> 🔥 About Me </h2>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="275" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="300" />
 
 ```yaml
 name: Altay YELES
@@ -38,6 +38,7 @@ focus:
   - 🖥️ Full-Stack Development
   - 🧪 Computer Vision & Image Processing
 motto: "Code • Learn • Break • Repeat ⚡"
+🤖 AI Digital Twin: altayyeles.tech
 ```
 
 <br clear="both"/>
@@ -203,5 +204,7 @@ motto: "Code • Learn • Break • Repeat ⚡"
   <i>Bu README otomatik güncellenir.</i><br/>
   <i>Son yenileme:</i> <!--REFRESH_TIMESTAMP-->2026-02-23 13:42 UTC
 </p>
+
+Built with ❤️ and ☕ by a Mathematical Engineer.
 
 <!-- Credits: GIF kaynakları Anmol-Baranwal/Cool-GIFs-For-GitHub -->
