@@ -140,10 +140,10 @@ motto: "Code • Learn • Break • Repeat ⚡"
 <h2> 📰 Recent Activity </h2>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [corebank-ledger-ops v0.10.0](https://github.com/altayyeles/corebank-ledger-ops/releases/tag/v0.10.0) in [altayyeles/corebank-ledger-ops](https://github.com/altayyeles/corebank-ledger-ops)
-2. ❌ Closed PR [#2](https://github.com/altayyeles/ai-erp-quality-module/pull/2) in [altayyeles/ai-erp-quality-module](https://github.com/altayyeles/ai-erp-quality-module)
-3. ❌ Closed PR [#3](https://github.com/altayyeles/ai-erp-quality-module/pull/3) in [altayyeles/ai-erp-quality-module](https://github.com/altayyeles/ai-erp-quality-module)
-4. 💪 Opened PR [#1](https://github.com/altayyeles/altayyeles/pull/1) in [altayyeles/altayyeles](https://github.com/altayyeles/altayyeles)
+1. 🚀 Published release [AI-Powered ERP Quality Module v1.0.0](https://github.com/altayyeles/ai-erp-quality-module/releases/tag/v1.0.0) in [altayyeles/ai-erp-quality-module](https://github.com/altayyeles/ai-erp-quality-module)
+2. 🚀 Published release [corebank-ledger-ops v0.10.0](https://github.com/altayyeles/corebank-ledger-ops/releases/tag/v0.10.0) in [altayyeles/corebank-ledger-ops](https://github.com/altayyeles/corebank-ledger-ops)
+3. ❌ Closed PR [#2](https://github.com/altayyeles/ai-erp-quality-module/pull/2) in [altayyeles/ai-erp-quality-module](https://github.com/altayyeles/ai-erp-quality-module)
+4. ❌ Closed PR [#3](https://github.com/altayyeles/ai-erp-quality-module/pull/3) in [altayyeles/ai-erp-quality-module](https://github.com/altayyeles/ai-erp-quality-module)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
