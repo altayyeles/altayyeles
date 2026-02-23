@@ -122,11 +122,13 @@ motto: "Code • Learn • Break • Repeat ⚡"
 <h2> 🔭 Featured Projects </h2>
 
 <div align="center">
-  <a href="https://github.com/altayyeles/Mentalist-Chatbot">
-    <img src="https://github-readme-stats-altayyeles.vercel.app/api/pin/?username=altayyeles&repo=Mentalist-Chatbot&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0d1117&border_color=ff3d81" />
+  <a href="https://github.com/altayyeles/Mentalist-Chatbot](https://github.com/altayyeles/corebank-ledger-ops">
+    <img src="https://github-readme-stats-altayyeles.vercel.app/api/pin/?username=altayyeles&repo=corebank-ledger-ops&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0d1117&border_color=ff3d81" />
   </a>
-  <a href="https://github.com/altayyeles/Coursera-Microsoft-Python-Development-Modules">
-    <img src="https://github-readme-stats-altayyeles.vercel.app/api/pin/?username=altayyeles&repo=Coursera-Microsoft-Python-Development-Modules&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0d1117&border_color=ff3d81" />
+  <a href="https://github.com/altayyeles/ai-erp-quality-module">
+    <img src="https://github-readme-stats-altayyeles.vercel.app/api/pin/?username=altayyeles&repo=ai-erp-quality-module&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0d1117&border_color=ff3d81" />
+  <a href="https://github.com/altayyeles/Real-Time-Fraud-Detection-Kafka-AI">
+      <img src="https://github-readme-stats-altayyeles.vercel.app/api/pin/?username=altayyeles&repo=Real-Time-Fraud-Detection-Kafka-AI&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0d1117&border_color=ff3d81" />
   </a>
 </div>
 
