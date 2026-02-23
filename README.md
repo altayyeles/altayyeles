@@ -122,7 +122,7 @@ motto: "Code • Learn • Break • Repeat ⚡"
 <h2> 🔭 Featured Projects </h2>
 
 <div align="center">
-  <a href="https://github.com/altayyeles/Mentalist-Chatbot](https://github.com/altayyeles/corebank-ledger-ops">
+  <a href="https://github.com/altayyeles/corebank-ledger-ops">
     <img src="https://github-readme-stats-altayyeles.vercel.app/api/pin/?username=altayyeles&repo=corebank-ledger-ops&title_color=ff3d81&icon_color=00eaff&text_color=cde9ff&bg_color=0d1117&border_color=ff3d81" />
   </a>
   <a href="https://github.com/altayyeles/ai-erp-quality-module">
