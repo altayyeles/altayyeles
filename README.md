@@ -153,7 +153,7 @@ motto: "Code • Learn • Break • Repeat ⚡"
 <h2> ⛅ İstanbul Hava Durumu </h2>
 
 <!-- WEATHER:START -->
-**5°C**, _Broken Clouds_ — Güneş: **04:43** / **15:50** (UTC)
+**6°C**, _Scattered Clouds_ — Güneş: **04:43** / **15:50** (UTC)
 <!-- WEATHER:END -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -202,7 +202,7 @@ motto: "Code • Learn • Break • Repeat ⚡"
 
 <p align="center">
   <i>Bu README otomatik güncellenir.</i><br/>
-  <i>Son yenileme:</i> <!--REFRESH_TIMESTAMP-->2026-02-26 13:43 UTC
+  <i>Son yenileme:</i> <!--REFRESH_TIMESTAMP-->2026-02-26 19:10 UTC
 </p>
 
 Built with ❤️ and ☕ by a Mathematical Engineer.
